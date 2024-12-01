@@ -23,14 +23,14 @@ const animeList = [
     {
         title: "Fate/stay night",
         synopsis: "Seorang pemuda terjebak dalam Perang Cawan Suci, di mana tujuh Master dan Servant bertarung demi satu keinginan.",
-        image: "Fate sn.jpg",
+        image: "fate sn.jpg",
         type: "anime",
         rating: "⭐7,40"
     },
     {
         title: "Re:Zero",
         synopsis: "Seorang pemuda yang terus kembali hidup setelah mati, berusaha mengubah nasib di dunia fantasi yang berbahaya.",
-        image: "Re zero.jpg",
+        image: "re zero.jpg",
         type: "anime",
         rating: "⭐8,45"
     },
