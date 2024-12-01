@@ -93,7 +93,7 @@ const animeList = [
     {
         title: "Isekai Shikkaku",
         synopsis: "Kisah pria yang hidup dengan depresi di dunia fantasi dan selalu mencoba bundir.",
-        image: "shikkaku.jpg",
+        image: "Isekaibundir",
         type: "anime",
         rating: "⭐7,40"
     },
